@@ -1,5 +1,12 @@
 # cuddly-quack
-dhaberst camclean ccdunn gbullock marini
+
+
+Built by:
+- camclean 
+- ccdunn 
+- dhaberst
+- gbullock 
+- marini
 
 # Instructions
 Minimum APK: 18
